@@ -1,0 +1,10 @@
+main: de.etiiomc.chatclear.main.main
+name: ChatClear
+version: 1.1.3
+author: etiiomc
+
+commands:
+  chat: 
+    description: Leere den Serverchat
+  silentchat: 
+    description: Leere den Serverchat silent
